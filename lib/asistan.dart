@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:dart_openai/dart_openai.dart';
 
 void main() {
-  OpenAI.apiKey = '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';
+  //OpenAI.apiKey gelecek
+  
   // Replace with your actual API key
   runApp(MyApp());
 }
